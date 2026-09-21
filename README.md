@@ -1,11 +1,8 @@
 # Deep Learning (SE-3210) — Submission
 
-**Muhammad Abdullah Ashir** · Roll No **2023-SE-39**
-Department of Software Engineering
-The University of Azad Jammu and Kashmir, Muzaffarabad
-Course Instructor: Engr. Ahmed Khawaja · Session 2023-27
 
----
+
+
 
 ## [`Assignment/`](Assignment) — BirdCLEF+ 2026 (group)
 
